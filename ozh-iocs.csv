@@ -7,11 +7,17 @@ FileHash-SHA256,7daa6bee5148016dce76b3bc2e2ccf579805e155e83f57fc9a01b39ea6335e74
 FileHash-SHA256,b9f87aa1201192b9222b4b80fca20b3819f4454e82607a53cb6686b4a31dc402,system.exe,.NET executable
 FileHash-SHA256,269995c7ae703e32096fc4ccadcd44ad4753b9b1430187e4b43ca1a3f1a2a2a4,system.exe,.NET executable
 FileHash-SHA256,d929738ce654725776c30661da218b9b0f68b973a901f00c31084da97711d8b7,system.exe,.NET executable
+FileHash-SHA256,3eb4ba26dd480904a9c6728be22f86004df675e17575046df401b937a6493d2d,system.exe,.NET executable
 IPv4,185.176.43.94,C2,
 hostname,ozhrat.getenjoyment.net,Control Panel,
+hostname,ozhsecui.getenjoyment.net, Control Panel,
 URL,http://ozhrat.getenjoyment.net/kod.txt,,
 URL,http://ozhrat.getenjoyment.net/link.txt,,
 URL,http://ozhrat.getenjoyment.net/core.txt,,
+URL,http://ozhsecui.getenjoyment.net/core/kernel.txt
+URL,http://ozhsecui.getenjoyment.net/core/kod.txt
+URL,http://ozhsecui.getenjoyment.net/core/link.txt,,
 Email,ozhrat@gmail.com,,
 Email,ozhhv5@gmail.com,,
 Email,ozhhv4@gmail.com,,
+String,C:\Users\Administrator\Desktop\ozhrat\system\system\obj\Debug\system.pdb,,
