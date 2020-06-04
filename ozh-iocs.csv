@@ -1,0 +1,15 @@
+﻿Type,Indicator,Description,File Type
+FileHash-SHA256,15f39214b98241e7294b77d26e374e103b85ef1f189fb3ab162bda4b3423dd6c,OzhSecSys.exe,.NET executable
+FileHash-SHA256,b2ba16bcd7cb9a884f52420b1e025fc2af2610cf4324847366cc9c45e79c61c1,OzhSecSys.exe,.NET executable
+FileHash-SHA256,4aa6d15bbbda83c760b76b44409c8714833997be91ea9904133a24634943ba39,system.exe,.NET executable
+FileHash-SHA256,3e850ae02fc582d3885016e4fc3e5b0c31eee30b90218f9e30f0800d6fa90d24,system.exe,.NET executable
+FileHash-SHA256,7daa6bee5148016dce76b3bc2e2ccf579805e155e83f57fc9a01b39ea6335e74,system.exe,.NET executable
+FileHash-SHA256,b9f87aa1201192b9222b4b80fca20b3819f4454e82607a53cb6686b4a31dc402,system.exe,.NET executable
+FileHash-SHA256,269995c7ae703e32096fc4ccadcd44ad4753b9b1430187e4b43ca1a3f1a2a2a4,system.exe,.NET executable
+FileHash-SHA256,d929738ce654725776c30661da218b9b0f68b973a901f00c31084da97711d8b7,system.exe,.NET executable
+IPv4,185.176.43.94,C2,
+hostname,ozhrat.getenjoyment.net,Control Panel,
+URL,http://ozhrat.getenjoyment.net/kod.txt,,
+URL,http://ozhrat.getenjoyment.net/link.txt,,
+URL,http://ozhrat.getenjoyment.net/core.txt,,
+Email,ozhrat@gmail.com,,
