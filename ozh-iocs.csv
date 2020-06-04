@@ -14,8 +14,8 @@ hostname,ozhsecui.getenjoyment.net, Control Panel,
 URL,http://ozhrat.getenjoyment.net/kod.txt,,
 URL,http://ozhrat.getenjoyment.net/link.txt,,
 URL,http://ozhrat.getenjoyment.net/core.txt,,
-URL,http://ozhsecui.getenjoyment.net/core/kernel.txt
-URL,http://ozhsecui.getenjoyment.net/core/kod.txt
+URL,http://ozhsecui.getenjoyment.net/core/kernel.txt,,
+URL,http://ozhsecui.getenjoyment.net/core/kod.txt,,
 URL,http://ozhsecui.getenjoyment.net/core/link.txt,,
 Email,ozhrat@gmail.com,,
 Email,ozhhv5@gmail.com,,
