@@ -21,5 +21,5 @@ rule OZH RAT
         $b = "OzhSecSys.My.Resources" ascii
         
     condition:
-       $a or $b
+       any of them
 }
