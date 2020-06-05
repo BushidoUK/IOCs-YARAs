@@ -17,8 +17,8 @@ rule OZH RAT
         hash2 = "b2ba16bcd7cb9a884f52420b1e025fc2af2610cf4324847366cc9c45e79c61c1"
 
     strings:
-        $a = "OzhSecSys.My"
-        $b = "OzhSecSys.My.Resources"
+        $a = "OzhSecSys.My" nocase
+        $b = "OzhSecSys.My.Resources" nocase
         
     condition:
        any of them
