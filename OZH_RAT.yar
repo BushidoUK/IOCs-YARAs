@@ -19,6 +19,7 @@ rule OZH RAT
     strings:
         $a = "OzhSecSys.My" nocase
         $b = "OzhSecSys.My.Resources" nocase
+	$c = "OzhSecSys.pdb" nocase
         
     condition:
        any of them
