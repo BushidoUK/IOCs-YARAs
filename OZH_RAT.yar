@@ -5,7 +5,7 @@
 	Identifier: OZH RAT
 */
 
-rule OZH RAT 
+rule OZH_RAT 
 {
 
     meta:
